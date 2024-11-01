@@ -1,19 +1,18 @@
 ---
 layout: archive
 permalink: /teaching/
-title: "Teaching"
+title: "教学"
 author_profile: true
 ---
 
+- **数据挖掘**  
+  *中国人民大学，统计与大数据研究院，2021-2024*
 
-- **Data Mining**  
-  *Renmin University of China, Institute of Statistics and Big Data, 2021-2024*
+- **计算机视觉**  
+  *中国人民大学，统计与大数据研究院，2021-2024*
 
-- **Computer Vision**  
-  *Renmin University of China, Institute of Statistics and Big Data, 2021-2024*
+- **自然语言处理**  
+  *中国人民大学，统计与大数据研究院，2020-2024*
 
-- **Natural Language Processing**  
-  *Renmin University of China, Institute of Statistics and Big Data, 2020-2024*
-
-- **Deep Learning**  
-  *Renmin University of China, Institute of Statistics and Big Data, 2020-2024*
+- **深度学习**  
+  *中国人民大学，统计与大数据研究院，2020-2024*

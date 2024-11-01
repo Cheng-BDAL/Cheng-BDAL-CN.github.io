@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "BDAL-RUC's Homepage"
+title                    : "BDAL-RUC的主页"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -25,8 +25,8 @@ author:
   name             : "BDAL-RUC"
   pronouns         : # example: "she/her"  
   bio              : "Where Ideas Meet Action"
-  location         : "Beijing, China"
-  employer         : "Renmin University of China"
+  location         : "北京"
+  employer         : "中国人民大学"
   uri              : # URL
   #email            : "mengcheng@ruc.edu.cn" 
 

@@ -1,31 +1,36 @@
 ---
 layout: archive
-title: "Fundings"
+title: "经费"
 permalink: /fundings/
 author_profile: true
 ---
 
-## PI Fundings
+经费支持
+======
 
-- Technology Cooperation Project (PI ¥920,000)  
-  - Huawei Technologies Co., Ltd. 2012 Laboratory 
+## 第一负责人
 
-- Technology Cooperation Project (PI ¥500,000)  
-  - Huawei Technologies Co., Ltd. Photonics 
+- 技术合作项目（¥920,000）  
+  - 华为技术有限公司 2012实验室
 
-- National Natural Science Foundation of China (PI ¥300,000)  
-  - Grant No. 12101606  
-  - Effective model-free subsampling methods. 
-- Science Foundation for Youths (PI ¥100,000)  
-  - Renmin University of China  
-  - Optimal transport problems in big data. 
+- 技术合作项目（¥500,000）  
+  - 华为技术有限公司 光子学实验室
 
-## Co-PI Fundings
+- 国家自然科学基金项目（¥300,000）  
+  - 项目编号：12101606  
+  - 有效的无模型子抽样方法。
 
-- National Natural Science Foundation of China (Co-PI ¥500,000)  
-  - Grant No. 12271522  
-  - Single-cell multi-omics data fusion modeling and heterogeneity analysis.
+- 青年科学基金项目（¥100,000）  
+  - 中国人民大学  
+  - 大数据中的最优传输问题。
 
-- Beijing Natural Science Foundation of China (Co-PI ¥200,000)  
-  - Grant No. 1232019  
-  - Large-sample subsampling under measurement constraint.
+## 联合项目
+
+- 国家自然科学基金项目（联合负责人 ¥500,000）  
+  - 项目编号：12271522  
+  - 单细胞多组学数据融合建模与异质性分析。
+
+- 北京市自然科学基金项目（联合负责人 ¥200,000）  
+  - 项目编号：1232019  
+  - 测量约束下的大样本子抽样研究。
+
