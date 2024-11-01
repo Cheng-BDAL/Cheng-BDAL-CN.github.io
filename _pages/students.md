@@ -1,7 +1,7 @@
 ---
 layout: archive  # 选择一个适合的布局，如 'page' 或者 'default'
 permalink: /students/
-title: "学生"
+title: ""
 author_profile: true  # 可选，视需要是否显示作者信息
 ---
 

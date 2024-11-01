@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /teaching/
-title: "教学"
+title: ""
 author_profile: true
 ---
 
