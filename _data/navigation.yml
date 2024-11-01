@@ -5,31 +5,31 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Publications"
+  - title: "科研"
     url: /publications/
 
   #- title: "Talks"
   #  url: https://academicpages.github.io/    
 
-  - title: "Teaching"
+  - title: "教学"
     url: /teaching/    
     
-  - title: "Rewards"
+  - title: "荣誉"
     url: /rewards/
         
-  - title: "Fundings"
+  - title: "经费"
     url: /fundings/
 
-  - title: "Students"
+  - title: "团队"
     url: /students/
     
-  - title: "Cv"
+  - title: "简历"
     url: /cv/
     
   #- title: "Guide"
   #  url: https://academicpages.github.io/
 
-  - title: "Photos"
+  - title: "合影"
     url: /photos/
 
 
