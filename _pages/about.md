@@ -46,4 +46,4 @@ BDAL-RUC简介
 最新动态
 =====
 
-- 祝贺李梦雨荣获中国工业与应用数学学会第22届年会优秀墙报奖。[链接](https://mp.weixin.qq.com/s/ffKNLItqx5vv-P0r3Yd2QQ)
+- 祝贺李梦雨荣获中国工业与应用数学学会第22届年会优秀墙报奖Q! [链接](https://mp.weixin.qq.com/s/ffKNLItqx5vv-P0r3Yd2QQ)
