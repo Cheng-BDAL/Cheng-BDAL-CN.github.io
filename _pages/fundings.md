@@ -5,8 +5,7 @@ permalink: /fundings/
 author_profile: true
 ---
 
-经费支持
-======
+
 
 ## 主持项目
 

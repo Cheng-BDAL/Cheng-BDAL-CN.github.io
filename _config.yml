@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "BDAL-RUC的主页"
+title                    : "BDAL-RUC主页"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
