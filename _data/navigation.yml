@@ -25,11 +25,10 @@ main:
     
   - title: "简历"
     url: /cv/
-    
-  #- title: "Guide"
-  #  url: https://academicpages.github.io/
 
   - title: "合影"
     url: /photos/
 
+  - title: "EN"
+    url: https://cheng-bdal.github.io/
 
