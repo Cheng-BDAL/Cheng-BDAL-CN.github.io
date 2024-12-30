@@ -1,0 +1,9 @@
+---
+layout: post  # 使用合适的布局
+title: 黄倩楠荣获2024年国家奖学金  # 奖励名称
+date: 2024-11-1  # 奖励的发布日期
+categories: rewards  # 类别，使用 rewards 以便归档
+---
+
+
+
