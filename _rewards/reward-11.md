@@ -3,7 +3,7 @@ layout: post  # 使用合适的布局
 title: 李梦雨入选2024年度中国科协青年人才托举工程博士生专项计划，托举学会为中国现场统计研究会  # 奖励名称
 date: 2024-12-31  # 奖励的发布日期
 categories: rewards  # 类别，使用 rewards 以便归档
-permalink: https://mp.weixin.qq.com/s/Nb6RIBYcZQp_K66wvEr34A
+
 ---
 
 ![荣誉证书](../images/李梦雨青托.png){: style="width:500px; height:auto;" }
