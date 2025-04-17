@@ -30,5 +30,7 @@ redirect_from:
 
 服务
 ======
+- Stat2Spark明理创新实验室指导教师[链接](https://mp.weixin.qq.com/s/ci3yEQE8B6Om9nn7HDRXJA)
+- <img src="https://cheng-bdal.github.io//images/明理创新实验室.png" alt="Image" width="400"><br>
 - 中国大百科全书（第三卷）统计学卷-数据科学分卷副主编
 - AOS，AOAS, Biometrika, JMLR, JCGS, NeurIPS, ICLR 等期刊会议审稿人 
