@@ -40,11 +40,14 @@ Hi大家好，我是孟澄，现在是中国人民大学（RUC）统计与大数
 
 最新动态
 =====
-- （2025年5月）恭喜黄君烈、康欣来、黄倩楠等的论文《Efficient Approximation of Leverage Scores in Two-dimensional Autoregressive Models with Application to Image Anomaly Detection》被JCGS接受！这是组里第9篇研究院1B类期刊！
 
-- （2025年5月）孟澄作为毕业十年校友代表受邀出席清华大学校党委书记邱勇主持的主题座谈会并发言[链接](https://mp.weixin.qq.com/s/d8KrSRIqVNIQVdvBO0yjFw)并被清华大学统计与数据科学系报道[链接](https://mp.weixin.qq.com/s/utOxnb63ZurO7jPo6NpkAg)
+- （2025年5月）恭喜李梦雨顺利通过博士论文毕业答辩！借用悟空学筋斗云时菩提祖师的一句话，“世上无难事，只怕有心人”；愿信心和恒心助你如虎添翼；愿你的理想主义不灭，继续做“顶天立地”的研究；愿你面对未来更大的挑战时也能充满力量，无惧，无忧。Cheers！
 
-- （2025年4月） 祝贺林俊一，黄君烈，薛敦耀获得Travel award，入选全国工业统计学教学研究会青年统计学家协会年会暨第三届统计理论及其应用国际研讨会博士生论坛[链接](https://mp.weixin.qq.com/s/ko2HoiA6hpjWPdyo8Q8E-g)，并被知名学术平台狗熊会转发报道[链接](https://mp.weixin.qq.com/s/secOUhCJQb0NYumfMlM5qQ)。
+- （2025年5月）恭喜黄君烈、康欣来、黄倩楠等的论文《Efficient Approximation of Leverage Scores in Two-dimensional Autoregressive Models with Application to Image Anomaly Detection》被JCGS接受！这是组里第9篇研究院1B类期刊！[链接](https://mp.weixin.qq.com/s/68Qa5Yv9DNXlm035fzIhjQ)
+
+- （2025年5月） <span style="color:purple">孟澄作为毕业十年校友代表受邀出席清华大学校党委书记邱勇主持的主题座谈会并发言[链接](https://mp.weixin.qq.com/s/d8KrSRIqVNIQVdvBO0yjFw)并被清华大学统计与数据科学系报道[链接](https://mp.weixin.qq.com/s/utOxnb63ZurO7jPo6NpkAg)！<span>
+
+- （2025年4月） 祝贺林俊一，黄君烈，薛敦耀获得Travel award，入选全国工业统计学教学研究会青年统计学家协会年会暨第三届统计理论及其应用国际研讨会博士生论坛[链接](https://mp.weixin.qq.com/s/ko2HoiA6hpjWPdyo8Q8E-g)，并被知名学术平台狗熊会转发报道！[链接](https://mp.weixin.qq.com/s/secOUhCJQb0NYumfMlM5qQ)。
 
 - （2025年3月）祝贺孟澄带领学生郑皓、王涛、梁浩贤、李梦雨荣获华为“难题揭榜”第114期火花奖，这是团队第三次获此殊荣！[链接](https://mp.weixin.qq.com/s/NXFraboslDTdyHaGAFEjFA)祝贺梁浩贤荣获明理书院采访！[我的火花时光](https://mp.weixin.qq.com/s/0SyJYpWQNhOvDi2sjYaxOg)
 
