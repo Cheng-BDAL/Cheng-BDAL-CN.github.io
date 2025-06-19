@@ -118,6 +118,13 @@ author_profile: true  # 可选，视需要是否显示作者信息
       2025级博士<br>
       北京师范大学，数学科学学院本科
     </td>
+    <td>
+      <img src="https://cheng-bdal.github.io//images/头像/柳欣怡.jpg" alt="Xiaxue Ouyang"><br>
+      柳欣怡<br>
+      2021级本科<br>
+      中国人民大学，商学院<br>
+      <br>
+    </td>
   </tr>
 </table>
 
