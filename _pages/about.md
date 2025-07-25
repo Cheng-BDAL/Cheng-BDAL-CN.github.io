@@ -40,12 +40,14 @@ Hi大家好，我是孟澄，现在是中国人民大学（RUC）统计与大数
 
 最新动态
 =====
+- （2025年7月）恭喜李梦雨入选清华大学“水木学者”计划！“水木学者”计划是清华大学重点打造的高层次青年人才培养计划，目标是培养一批潜心学术、勇于创新、具有强烈社会责任感和国际视野的优秀青年学者。每年支持人数不超过100人。
+
 - （2025年6月）孟澄受邀在多平台介绍统计学专业并分享成长中的小故事。[链接](https://www.bilibili.com/video/BV1gZM1zSEKs/?spm_id_from=333.337.search-card.all.click&vd_source=e6527d198967f47b463a38a48f92d812)
 
 
 - （2025年6月）<span style="color: rgb(165, 16, 33);">恭喜李梦雨获得“吴玉章奖学金”！“吴玉章奖学金”是我校学生最高荣誉，颁发给德智体美劳全面发展、最能体现学校人才培养目标的毕业年级学生，每年博士生仅四个名额！[链接](https://mp.weixin.qq.com/s/zID17NSsC8q4sK_bimLOJQ)</span>
 
-- （2025年6月）恭喜李梦雨等的论文《Double Optimal Transport for Differential Gene Regulatory Network Inference with Unpaired Samples》被Bioinformatics接受！这是组里的第10篇人大A-类期刊！
+- （2025年6月）恭喜李梦雨等的论文《Double Optimal Transport for Differential Gene Regulatory Network Inference with Unpaired Samples》被Bioinformatics接受！这是组里的第11篇人大A-类期刊！
 
 - （2025年5月）恭喜李梦雨（博士）和黄倩楠（硕士）顺利通过论文毕业答辩！借用悟空学筋斗云时菩提祖师的一句话，“世上无难事，只怕有心人”；愿信心和恒心助你如虎添翼；愿你的理想主义不灭，继续做“顶天立地”的研究；愿你面对未来更大的挑战时也能充满力量，无惧，无忧。Cheers！
 
