@@ -1,20 +1,18 @@
 ---
 layout: archive  # 选择一个适合的布局，如 'page' 或者 'default'
 permalink: /students/
-title: "团队成员"
+title: "Students"
 author_profile: true  # 可选，视需要是否显示作者信息
 ---
 
 
-团队成员
-======
-
+## Team members
 <style>
   table, tr, td {
     border: none !important;
   }
   img {
-    width: 180px;
+    width: 230px;
     height: 240px;
     object-fit: cover;
     border-radius: 8px;
@@ -27,120 +25,131 @@ author_profile: true  # 可选，视需要是否显示作者信息
 
 
 <table>
-  <tr> 
+  <tr>
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/康欣来.jpg" alt="Xinlai Kang"><br>
-      康欣来<br>
-      2021级博士<br>
-      中国人民大学，统计学院本科
+      Xinlai Kang<br>
+      PhD candidate (2021)<br>
+      BS: Renmin University of China<br>
+      School of Statistics
     </td>
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/黄君烈.jpg" alt="Junlie Huang"><br>
-      黄君烈<br>
-      2022级博士<br>
-      清华大学，数学与应用数学本科
+      Junlie Huang<br>
+      PhD candidate (2022)<br>
+      BS: Tsinghua University<br>
+      Mathematics and Applied Mathematics
     </td>
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/朱珺.jpg" alt="Jun Zhu"><br>
-      朱珺<br>
-      2022级博士<br>
-      东南大学，数学学院本科
+      Jun Zhu<br>
+      PhD candidate (2022)<br>
+      BS: Southeast University<br>
+      School of Mathematics
     </td>
   </tr>
   <tr>
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/杜承朔.jpg" alt="Chengshuo Du"><br>
-      杜承朔<br>
-      2023级博士<br>
-      北京航空航天大学，数学科学学院本科
+      Chengshuo Du<br>
+      PhD candidate (2023)<br>
+      BS: Beihang University<br>
+      School of Mathematics
     </td>
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/王涛.jpg" alt="Tao Wang"><br>
-      王涛<br>
-      2023级博士<br>
-      天津大学，数学学院本科
+      Tao Wang<br>
+      PhD candidate (2023)<br>
+      BS: Tianjin University<br>
+      School of Mathematics
     </td>
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/欧阳夏雪.jpg" alt="Xiaxue Ouyang"><br>
-      欧阳夏雪<br>
-      2023级博士 <br>
-      武汉大学，数学与统计学院本科
+      Xiaxue Ouyang<br>
+      PhD candidate (2023)<br>
+      BS: Wuhan University<br>
+      School of Mathematics
     </td>
   </tr>
   <tr>
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/郑浩.jpg" alt="Junyi Lin"><br>
-      郑皓<br>
-      2023级硕士<br>
-      山东大学，数学学院本科
+      Hao Zheng<br>
+      M.S. (2023)<br>
+      BS: Shandong University<br>
+      School of Mathematics
     </td>
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/林俊一.jpg" alt="Junyi Lin"><br>
-      林俊一<br>
-      2024级博士<br>
-      南开大学，统计与数据科学学院本科
+      Junyi Lin<br>
+      PhD candidate (2024)<br>
+      BS: Nankai University<br>
+      School of Statistics and Data Science
     </td>
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/薛敦耀.jpg" alt="Dunyao Xue"><br>
-      薛敦耀<br>
-      2024级博士<br>
-      兰州大学，萃英学院本科<br>
+      Dunyao Xue<br>
+      PhD candidate (2024)<br>
+      BS: Lanzhou University<br>
+      Cuiying Honors College
     </td>
   </tr>
   <tr>
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/王沛泽.jpg" alt="Dunyao Xue"><br>
-      王培泽<br>
-      2024级博士<br>
-      厦门大学，统计学院本科
-    </td>
-    <td>
-      <img src="https://cheng-bdal.github.io//images/头像/梁浩贤.jpg" alt="Dunyao Xue"><br>
-      梁浩贤<br>
-      2024级硕士(北师大数学系)<br>
-      中国人民大学，数学科学学院本科
+      Peize Wang<br>
+      PhD candidate (2025)<br>
+      BS: Xiamen University<br>
+      School of Mathematical Sciences
     </td>
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/曾贺舵.jpg" alt="Junyi Lin"><br>
-      曾舸舵<br>
-      2024级硕士<br>
-      武汉大学，数学与统计学院本科
+      Heduo Zeng<br>
+      M.S. (2024)<br>
+      BS: Wuhan University<br>
+      School of Mathematics
+    </td>
+    <td>
+      <img src="https://cheng-bdal.github.io//images/头像/梁浩贤.jpg" alt="Dunyao Xue"><br>
+      Haoxian Liang<br>
+      M.S. (2024)<br>
+      BS: Renmin University of China<br>
+      School of Mathematical Sciences
     </td>
   </tr>
   <tr>
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/董雨铮.jpg" alt="Xiaxue Ouyang"><br>
-      董雨铮<br>
-      2025级博士<br>
-      北京师范大学，数学科学学院本科
+      Yuzheng Dong<br>
+      PhD candidate (2025)<br>
+      BS: Beijing Normal University<br>
+      School of Mathematical Sciences
     </td>
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/柳欣怡.jpg" alt="Xiaxue Ouyang"><br>
-      柳昕怡<br>
-      2021级本科<br>
-      中国人民大学，商学院<br>
+      Xinyi Liu<br>
+      BS: Renmin University of China<br>
+      Business School<br>
       <br>
     </td>
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/金贝宁.jpg" alt="Xiaxue Ouyang"><br>
-      金贝宁<br>
-      2024级博士（财政金融学院）<br>
-      北京工业大学，理学院本科<br>
-      <br>
+      Beining Jin<br>
+      PhD candidate (2024)<br>
+      BS: Beijing University of Technology<br>
+      School of Science
     </td>
   </tr>
 </table>
 
-
-已毕业学生
-======
+## Graduated Students
 <style>
   table, tr, td {
     border: none !important;
   }
   img {
-    width: 230px;
-    height: 240px;
+    width: 220px;
+    height: 250px;
     object-fit: cover;
     border-radius: 8px;
     vertical-align: top; /* 确保图片顶部对齐 */
@@ -155,65 +164,77 @@ author_profile: true  # 可选，视需要是否显示作者信息
   <tr>
     <td>
      <img src="https://cheng-bdal.github.io//images/头像/李涛.jpg" alt="Tao Li"><br>
-      李涛<a href="https://github.com/sherlockLitao">GitHub</a><br>
-      2019级博士<br>
-      南京大学，数学系本科    
+      Tao Li<a href="https://github.com/sherlockLitao">GitHub</a><br>
+      PhD candidate (2019)<br>
+      Nanjing University<br>
+      Department of Mathematics
     </td>
     <td>
-    <img src="https://cheng-bdal.github.io//images/李涛毕业礼物.jpg" alt="Image"><br>
-    毕业赠言：雄关漫道真如铁，而今迈步从头越<br>
+    <img src="https://cheng-bdal.github.io//images/李涛毕业礼物.jpg" alt="Tao Li"><br>
+    Graduation Message: The iron pass was daunting, yet now we begin anew with confident steps.<br>
+    <br>
     <br>
     <br>
     </td>
     <td>
-    <img src="https://cheng-bdal.github.io//images/李涛毕业照.jpg" alt="Image"><br>
-    2024年5月17日毕业纪念<br>
-    工作去向：银河证券<br>
+    <img src="https://cheng-bdal.github.io//images/李涛毕业照.jpg" alt="Tao Li"><br>
+    Graduation Commemoration on May 17, 2024<br>
+    Work destination: China Galaxy Securities<br>
+    <br>
     <br>
     </td>
   </tr>
   <tr>
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/李梦雨.jpg" alt="Mengyu Li"><br>
-      李梦雨<a href="https://mengyu8042.github.io/">GitHub</a><br>
-      2020级博士<br>
-      北京师范大学，统计学院本科
+      Mengyu Li<a href="https://mengyu8042.github.io/">GitHub</a><br>
+      PhD candidate (2020)<br>
+      BS: Tianjin University<br>
+      School of Mathematics
     </td>
     <td>
       <img src="https://cheng-bdal.github.io//images/李梦雨毕业照/李梦雨毕业照1.jpg" alt="Mengyu Li"><br>
-    毕业赠言：世上无难事，只怕有心人<br>
+    Graduation Message: Nothing is impossible to a willing heart.<br>
+    <br>
     <br>
     <br>
     </td>
     <td>
       <img src="https://cheng-bdal.github.io//images/李梦雨毕业照/李梦雨毕业照2.jpg" alt="Mengyu Li"><br>
-      2025年5月16日毕业纪念<br>
-      毕业去向：清华大学统计系水木学者<br>
+      Graduation Commemoration on May 16, 2025<br>
+      Shuimu Scholar, Department of Statistics, Tsinghua University<br>
+      <br>
       <br>
     </td>
   </tr>
   <tr>
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/黄倩楠.jpg" alt="Xiaxue Ouyang"><br>
-      黄倩楠<br>
-      2023级硕士<br> 
-      天津大学，数学学院本科
+      Qiannan Huang<br>
+      M.S. (2023)<br> 
+      BS: Tianjin University<br>
+      School of Mathematics
     </td>
     <td>
       <img src="https://cheng-bdal.github.io//images/黄倩楠毕业照/黄倩楠毕业照1.jpg" alt="Mengyu Li"><br>
-      毕业赠言：选对方向<br>
-    特别鸣谢：<a href="https://space.bilibili.com/652096797?spm_id_from=333.337.0.0">我是超人CR</a><br>
+    Graduation Message: Success begins with the right direction.<br>
+    Special Thanks：<a href="https://space.bilibili.com/652096797?spm_id_from=333.337.0.0">我是超人CR</a><br>
     <br>
     </td>
     <td>
       <img src="https://cheng-bdal.github.io//images/黄倩楠毕业照/黄倩楠毕业照2.jpg" alt="Mengyu Li"><br>
-      2025年5月25日毕业纪念<br>
-      毕业去向：香港大学商学院博士<br>
-      毕业心语：<a href="https://mp.weixin.qq.com/s/JjcNgioFblkL_FJBtw1wbw">Link</a><br>
+      Graduation Commemoration on May 25, 2025<br>
+      Next affiliation:<br>
+      HKU Business School<br>
+      Graduation Message: <a href="https://mp.weixin.qq.com/s/JjcNgioFblkL_FJBtw1wbw">Link</a>
+      <br>
     </td>
   </tr>
 </table>
 
-- 魏夕童（硕士，2020-2022，美团）
-- 林殿钧（硕士，2020-2022，宾夕法尼亚州立大学博士生）
-- 王鑫（硕士，2020-2022，华盛顿大学博士生）
+
+- Xitong Wei (MS, 2020-2022, Meituan)
+- Dianjun Lin (MS, 2020-2022, PhD student at  The Pennsylvania State University)
+- Xin Wang (MS, 2020-2022, PhD student at University of Washington)
+
+
