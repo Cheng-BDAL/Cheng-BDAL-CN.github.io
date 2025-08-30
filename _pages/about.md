@@ -40,6 +40,8 @@ Hi大家好，我是孟澄，现在是中国人民大学（RUC）统计与大数
 
 最新动态
 =====
+- （2025年8月）祝贺欧阳夏雪主持的《自适应子采样驱动的高效特征筛选与生物启发编码拓展和稀疏化表示方法》立项为2025年度统计与大数据研究院研究生科学研究基金项目！
+
 - （2025年8月）恭喜孟澄等的论文《SPOT: An Active Learning Algorithm for Efficient Deep
  Neural Network Training》被期刊Big Data Mining and Analytics（IF:13.6）接受！
 
