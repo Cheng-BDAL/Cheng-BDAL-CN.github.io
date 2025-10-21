@@ -1,5 +1,5 @@
 ---
-title: "Modern Subsampling Methods for Large-Scale Least Squares Regression"
+title: "Modern subsampling methods for large-scale least squares regression"
 collection: publications
 category: manuscripts
 permalink: 'https://www.igi-global.com/article/modern-subsampling-methods-for-large-scale-least-squares-regression/280467'
