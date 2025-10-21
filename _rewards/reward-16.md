@@ -1,5 +1,5 @@
 ---
-layout: post  # 使用合适的布局
+layout: post  
 title: 黄君烈代表Stat2Spark团队参加明理书院2025年学术年会并获“明理书院优秀科研团队奖  # 奖励名称
 date: 2025-10-01  # 奖励的发布日期
 categories: rewards  # 类别，使用 rewards 以便归档
