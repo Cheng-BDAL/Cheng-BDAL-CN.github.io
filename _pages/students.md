@@ -139,7 +139,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
       <img src="https://cheng-bdal.github.io//images/头像/向智鹏.jpg" alt="Xiaxue Ouyang"><br>
       向智鹏<br>
       2025级博士<br>
-      南开大学，统计与数据科学学院统计系本科<br>
+      南开大学，统计与数据科学学院本科<br>
       ycx_lives at 163 dot com
     </td>
   </tr>
@@ -156,7 +156,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
       <img src="https://cheng-bdal.github.io//images/头像/王政博.jpg" alt="Xiaxue Ouyang"><br>
       王政博<br>
       2025级硕士<br>
-      东北财经大学 会计学院本科<br>
+      东北财经大学，会计学院本科<br>
       2025104259 at ruc dot edu dot cn
       <br>
     </td>
