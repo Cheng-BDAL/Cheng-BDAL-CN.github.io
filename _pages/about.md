@@ -40,6 +40,8 @@ Hi大家好，我是孟澄，现在是中国人民大学（RUC）统计与大数
 
 最新动态
 =====
+- (2025年11月) 恭喜李梦雨等的论文《Iterative Optimal Transport for Multimodal Image Registration Pattern Recognition》被Pattern Recognition接受！这是组里的第13篇人大A-类期刊！
+
 - （2025年11月）恭喜黄君烈、杜承朔、王涛、薛敦耀，4位同学荣获中国工业与应用数学学会（CSIAM）第九届学生论坛优秀墙报奖，**获奖数量位列参赛单位首位**！[链接](https://mp.weixin.qq.com/s/krRC5HjTbBXFPWO6ZEP19Q) 荣获人大新闻网报道！ [链接](https://news.ruc.edu.cn/1984663406100312065.html)
 
 - （2025年11月）恭喜朱珺获得博士研究生综合类奖学金（全院4位）！

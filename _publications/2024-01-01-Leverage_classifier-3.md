@@ -1,5 +1,5 @@
 ---
-title: "Leverage classifier: Another look at support vector machine (In press)"
+title: "Leverage classifier: Another look at support vector machine"
 collection: publications
 category: manuscripts
 permalink: 'https://arxiv.org/abs/2308.12444'
