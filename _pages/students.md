@@ -107,7 +107,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
       王培泽<br>
       2024级博士<br>
       厦门大学，统计学院本科<br>
-      wpz2024 at ruc dot edu dot can
+      wpz2024 at ruc dot edu dot cn
     </td>
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/金贝宁.jpg" alt="Xiaxue Ouyang"><br>
