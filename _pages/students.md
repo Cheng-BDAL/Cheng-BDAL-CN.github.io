@@ -39,6 +39,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
       <img src="https://cheng-bdal.github.io//images/头像/黄君烈.jpg" alt="Junlie Huang"><br>
       黄君烈<br>
       2022级博士<br>
+      合作导师：郭绍俊副教授<br>
       清华大学，数学与应用数学本科<br>
       hjl22 at ruc dot edu dot cn
     </td>
@@ -55,6 +56,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
       <img src="https://cheng-bdal.github.io//images/头像/杜承朔.jpg" alt="Chengshuo Du"><br>
       杜承朔<br>
       2023级博士<br>
+      合作导师：郭绍俊副教授<br>
       北京航空航天大学，数学科学学院本科<br>
       duchengshuo at ruc dot edu dot cn
     </td>
@@ -69,6 +71,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
       <img src="https://cheng-bdal.github.io//images/头像/欧阳夏雪.jpg" alt="Xiaxue Ouyang"><br>
       欧阳夏雪<br>
       2023级博士 <br>
+      合作导师：何珂俊副教授<br>
       武汉大学，数学与统计学院本科<br>
       ouyangxiaxue at ruc dot edu dot cn
     </td>
@@ -85,6 +88,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
       <img src="https://cheng-bdal.github.io//images/头像/林俊一.jpg" alt="Junyi Lin"><br>
       林俊一<br>
       2024级博士<br>
+      合作导师：何珂俊副教授<br>
       南开大学，统计与数据科学学院本科<br>
       junyilin at ruc dot edu dot cn
     </td>
@@ -92,6 +96,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
       <img src="https://cheng-bdal.github.io//images/头像/薛敦耀.jpg" alt="Dunyao Xue"><br>
       薛敦耀<br>
       2024级博士<br>
+      合作导师：薛敦耀副教授<br>
       兰州大学，萃英学院本科<br>
       xuedunyao1202 at ruc dot edu dot cn
     </td>
