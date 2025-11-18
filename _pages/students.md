@@ -96,7 +96,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
       <img src="https://cheng-bdal.github.io//images/头像/薛敦耀.jpg" alt="Dunyao Xue"><br>
       薛敦耀<br>
       2024级博士<br>
-      合作导师：薛敦耀副教授<br>
+      合作导师：代文林副教授<br>
       兰州大学，萃英学院本科<br>
       xuedunyao1202 at ruc dot edu dot cn
     </td>
