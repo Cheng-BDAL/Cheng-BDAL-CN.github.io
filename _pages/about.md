@@ -40,6 +40,8 @@ Hi大家好，我是孟澄，现在是中国人民大学（RUC）统计与大数
 
 最新动态
 =====
+- （2025年11月）祝贺李梦雨获得中国博士后科学基金面上资助！[链接](https://mp.weixin.qq.com/s/Ziaz-dZziQIdrkS6bBu6uQ)
+
 - （2025年11月）恭喜王涛受邀参加NeurIPS 2025北京线下分享会，并做墙报展示。[链接](https://mp.weixin.qq.com/s/DaLrbOeDIacQ-XAorbPVGA)
 
 - （2025年11月）孟澄作为25位清华体育人代表之一讲述体育代表队的成长与故事。[链接](https://mp.weixin.qq.com/s/vy3i4iGzefxdtZy2zuq0dQ)
