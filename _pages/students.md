@@ -62,7 +62,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
     </td>
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/王涛.jpg" alt="Tao Wang"><br>
-      王涛<br>
+      [王涛](https://taowang0105.github.io/)<br>
       2023级博士<br>
       天津大学，数学学院本科<br>
       wang_tao at ruc dot edu dot cn
