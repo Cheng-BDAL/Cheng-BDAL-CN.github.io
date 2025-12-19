@@ -40,6 +40,8 @@ Hi大家好，我是孟澄，现在是中国人民大学（RUC）统计与大数
 
 最新动态
 =====
+- （2025年12月）恭喜欧阳夏雪等的论文《Sparsification Techniques for Large-scale Optimal Transport Problems》被WIREs Computational Statistics接受！
+
 - （2025年11月）祝贺李梦雨获得中国博士后科学基金面上资助！[链接](https://mp.weixin.qq.com/s/Ziaz-dZziQIdrkS6bBu6uQ)
 
 - （2025年11月）恭喜王涛受邀参加NeurIPS 2025北京线下分享会，并做墙报展示。[链接](https://mp.weixin.qq.com/s/DaLrbOeDIacQ-XAorbPVGA)
