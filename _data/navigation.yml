@@ -11,8 +11,8 @@ main:
   #- title: "Talks"
   #  url: https://academicpages.github.io/    
 
-  - title: "教学"
-    url: /teaching/    
+  #- title: "教学"
+  #  url: /teaching/    
     
   - title: "荣誉"
     url: /rewards/
