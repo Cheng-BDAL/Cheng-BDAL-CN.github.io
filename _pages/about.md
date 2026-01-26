@@ -40,6 +40,8 @@ Hi大家好，我是孟澄，现在是中国人民大学（RUC）统计与大数
 
 最新动态
 =====
+- （2026年1月） 恭喜林俊一、薛敦耀等的论文《An Efficient SE(p)-Invariant Transport Metric Driven by Polar Transport Discrepancy-based Representation》被ICLR接受！
+
 - （2026年1月） 孟澄荣获2025年度华为2012实验室中央研究院“最佳合作团队成果奖”！
 
 - （2026年1月） 祝贺李梦雨、黄君烈、杜承朔、王涛、薛敦耀，五位同学荣登2025年RUC统计学子成长图鉴！[链接](https://mp.weixin.qq.com/s/ZAW9in5xx4kh3uWEm1sinA)  
