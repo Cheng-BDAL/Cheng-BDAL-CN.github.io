@@ -200,6 +200,52 @@ author_profile: true  # 可选，视需要是否显示作者信息
       <br>
     </td>
   </tr>
+    <tr>
+     <td>
+      <img src="https://cheng-bdal.github.io//images/头像/陈佳丰.jpg" alt="Xiaxue Ouyang"><br>
+      陈佳丰<br>
+      2025级硕士（北邮数学学院）<br>
+      合作导师：张静怡研究员<br>
+      山西财经大学，统计学本科<br>
+      2025111691 at bupt dot cn
+      <br>
+    </td>
+    <td>
+      <img src="https://cheng-bdal.github.io//images/头像/刘可欣.jpg" alt="Xiaxue Ouyang"><br>
+      刘可欣<br>
+      2026级博士（北邮数学学院）<br>
+      合作导师：张静怡研究员<br>
+      kxliu2025 at bupt dot cn
+      <br>
+    </td>
+    <td>
+      <img src="https://cheng-bdal.github.io//images/头像/李雨凝.jpg" alt="Xiaxue Ouyang"><br>
+      李雨凝<br>
+      2026级博士（北邮数学学院）<br>
+      合作导师：张静怡研究员<br>
+      华中农业大学，信息与计算科学专业本科<br>
+      13204761705 at 163 dot com
+      <br>
+    </td>
+  </tr>
+      <tr>
+     <td>
+      <img src="https://cheng-bdal.github.io//images/头像/罗茜.jpg" alt="Xiaxue Ouyang"><br>
+      罗茜<br>
+      2026级硕士（北邮数学学院）<br>
+      合作导师：张静怡研究员<br>
+      2867202110 at qq dot com
+      <br>
+    </td>
+    <td>
+      <img src="https://cheng-bdal.github.io//images/头像/蒋璇.jpg" alt="Xiaxue Ouyang"><br>
+      蒋璇<br>
+      2024级本科（北邮数学学院）<br>
+      合作导师：张静怡研究员<br>
+      2024212523 at bupt dot cn
+      <br>
+    </td>
+  </tr>
 </table>
 
 
