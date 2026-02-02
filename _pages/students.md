@@ -150,12 +150,20 @@ author_profile: true  # 可选，视需要是否显示作者信息
   </tr>
   <tr>
     <td>
-      <img src="https://cheng-bdal.github.io//images/头像/柳欣怡.jpg" alt="Xiaxue Ouyang"><br>
-      柳昕怡<br>
-      2021级本科<br>
-      中国人民大学，商学院本科<br>
-      guyu04202025 at gmail dot com
-      <br>
+      <img src="https://cheng-bdal.github.io//images/头像/张宇飞.jpg" alt="Xiaxue Ouyang"><br>
+      张宇飞<br>
+      2025级博士（北邮数学学院）<br>
+      合作导师：张静怡研究员<br>
+      燕山大学<br>
+      2025010723 at bupt dot cn
+    </td>
+    <td>
+      <img src="https://cheng-bdal.github.io//images/头像/李泽.jpg" alt="Xiaxue Ouyang"><br>
+      李泽<br>
+      2025级博士（北邮数学学院）<br>
+      合作导师：张静怡研究员<br>
+      郑州大学<br>
+      li.ze at bupt dot cn
     </td>
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/王政博.jpg" alt="Xiaxue Ouyang"><br>
@@ -165,6 +173,8 @@ author_profile: true  # 可选，视需要是否显示作者信息
       2025104259 at ruc dot edu dot cn
       <br>
     </td>
+      </tr>
+  <tr>
      <td>
       <img src="https://cheng-bdal.github.io//images/头像/吕佳迪.jpg" alt="Xiaxue Ouyang"><br>
       吕佳迪<br>
@@ -173,8 +183,6 @@ author_profile: true  # 可选，视需要是否显示作者信息
       2025104254 at ruc dot edu dot cn
       <br>
     </td>
-  </tr>
-  <tr>
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/胡婧璇.jpg" alt="Xiaxue Ouyang"><br>
       胡婧璇<br>
