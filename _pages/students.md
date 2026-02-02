@@ -154,7 +154,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
       张宇飞<br>
       2025级博士（北邮数学学院）<br>
       合作导师：张静怡研究员<br>
-      燕山大学<br>
+      燕山大学本科<br>
       2025010723 at bupt dot cn
     </td>
     <td>
@@ -162,7 +162,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
       李泽<br>
       2025级博士（北邮数学学院）<br>
       合作导师：张静怡研究员<br>
-      郑州大学<br>
+      郑州大学本科<br>
       li.ze at bupt dot cn
     </td>
     <td>
