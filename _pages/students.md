@@ -284,6 +284,16 @@ author_profile: true  # 可选，视需要是否显示作者信息
       <br>
     </td>
   </tr>
+  <tr>
+      <td>
+      <img src="https://cheng-bdal.github.io//images/头像/柳欣怡.jpg" alt="Xiaxue Ouyang"><br>
+      柳昕怡<br>
+      2021级本科<br>
+      中国人民大学，商学院本科<br>
+      guyu04202025 at gmail dot com<br>
+      毕业去向：美国佐治亚大学博士生<br>
+    </td>
+  </tr>
 </table>
 
 - 魏夕童（硕士，2020-2022，美团）
