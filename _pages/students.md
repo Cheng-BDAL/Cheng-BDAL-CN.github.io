@@ -30,7 +30,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
   <tr> 
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/康欣来.jpg" alt="Xinlai Kang"><br>
-      康欣来<br>
+      <a href="https://kxlkxl1999.github.io/">康欣来</a><br>
       2021级博士<br>
       中国人民大学，统计学院本科<br>
       kangxinlai at ruc dot edu dot cn
