@@ -40,6 +40,8 @@ Hi大家好，我是孟澄，现在是中国人民大学（RUC）统计与大数
 
 最新动态
 =====
+- （2026年3月）祝贺朱珺和孟澄参与的“析锂在线检测”难题荣获华为“难题揭榜”第131期火花奖！
+
 - （2026年1月）恭喜欧阳夏雪等的论文《Sparsification Techniques for Large-scale Optimal Transport Problems》被WIREs Computational Statistics接受，并被知名统计公众号“统计之都”宣传报道！[链接](https://mp.weixin.qq.com/s/f_F0dMu3QbU_GCBHDJIv4A)
 
 - （2026年1月） 恭喜林俊一、薛敦耀等的论文《An Efficient SE(p)- Invariant Transport Metric Driven by Polar Transport Discrepancy-based Representation》被ICLR接受，并被知名AI公众号“机器之心”宣传报道！[链接](https://mp.weixin.qq.com/s/JMUyM_UScUCKwxmcGBlTAQ)
