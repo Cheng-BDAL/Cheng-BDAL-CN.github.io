@@ -3,7 +3,7 @@ layout: post  # 使用合适的布局
 title: 华为火花奖  # 奖励名称
 categories: rewards  # 类别，使用 rewards 以便归档
 permalink: https://mp.weixin.qq.com/s/NXFraboslDTdyHaGAFEjFA
-order: 2
+order: 3
 ---
 
 | 难题期数       | 出题部门                 | 难题名称                                   | 获奖类型   | 火花奖期数 | 解题核心成员                      |
