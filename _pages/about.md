@@ -44,7 +44,7 @@ Hi大家好，我是孟澄，现在是中国人民大学（RUC）统计与大数
 
 - （2026年3月）祝贺薛敦耀入选2025-2026学年中国人民大学“拔尖创新人才培育资助计划”！[链接](https://grs.ruc.edu.cn/info/1033/3326.htm)
 
-- （2026年3月）祝贺朱珺和孟澄参与的“析锂在线检测”难题荣获华为“难题揭榜”第131期火花奖！
+- （2026年3月）祝贺朱珺和孟澄参与的“析锂在线检测”难题荣获华为“难题揭榜”第131期火花奖！[链接](https://mp.weixin.qq.com/s/aECgm4y8pQs_ImBtHJ-7Pw)
 
 - （2026年1月）恭喜欧阳夏雪等的论文《Sparsification Techniques for Large-scale Optimal Transport Problems》被WIREs Computational Statistics接受，并被知名统计公众号“统计之都”宣传报道！[链接](https://mp.weixin.qq.com/s/f_F0dMu3QbU_GCBHDJIv4A)
 
