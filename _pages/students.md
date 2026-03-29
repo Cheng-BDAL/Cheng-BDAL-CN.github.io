@@ -30,7 +30,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
   <tr> 
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/康欣来.jpg" alt="Xinlai Kang"><br>
-      <a href="https://kxlkxl1999.github.io/">康欣来</a><br>
+      康欣来<a href="https://kxlkxl1999.github.io/">Github</a><br>
       2021级博士<br>
       中国人民大学，统计学院本科<br>
       kangxinlai at ruc dot edu dot cn
@@ -62,7 +62,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
     </td>
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/王涛.jpg" alt="Tao Wang"><br>
-      <a href="https://taowang0105.github.io/">王涛</a><br>
+      王涛<a href="https://taowang0105.github.io/">Github</a><br>
       2023级博士<br>
       天津大学，数学学院本科<br>
       wang_tao at ruc dot edu dot cn
@@ -94,7 +94,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
     </td>
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/薛敦耀.jpg" alt="Dunyao Xue"><br>
-      <a href="https://sapphirexdy.github.io/">薛敦耀</a><br>
+      薛敦耀<a href="https://sapphirexdy.github.io/">Github</a><br>
       2024级博士<br>
       合作导师：代文林副教授<br>
       兰州大学，萃英学院本科<br>
