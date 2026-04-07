@@ -45,7 +45,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
     </td>
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/朱珺.jpg" alt="Jun Zhu"><br>
-      朱珺<br>
+      朱珺<a href="https://dfsxzj.github.io/homepage/">Github</a><br>
       2022级博士<br>
       东南大学，数学学院本科<br>
       dfsxzj at ruc dot edu dot cn
