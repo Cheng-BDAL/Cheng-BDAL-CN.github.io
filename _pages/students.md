@@ -37,7 +37,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
     </td>
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/黄君烈.jpg" alt="Junlie Huang"><br>
-      黄君烈<br>
+      黄君烈<a href="https://junlie22.github.io/">Github</a><br>
       2022级博士<br>
       合作导师：郭绍俊副教授<br>
       清华大学，数学与应用数学本科<br>
