@@ -40,6 +40,8 @@ Hi大家好，我是孟澄，现在是中国人民大学（RUC）统计与大数
 
 最新动态
 =====
+- （2026年4月）恭喜王涛、杜承朔、欧阳夏雪、林俊一，4位同学荣获全国工业统计学教学研究会青年统计学家协会暨首届“茆诗松统计教育博士生论坛”travel award！，[链接](https://mp.weixin.qq.com/s?__biz=Mzg5MTE4ODgwOA==&mid=2247489033&idx=1&sn=b9ea9ce7c289eb64f2142ec389fe48ca&chksm=ce2ed2198aa217bed2d22ec242458761ab23ddafe66f623615c27f4eac2446fcbf6c6b2da539&mpshare=1&scene=1&srcid=0326Nw7SUKz4VrpzIxcdPsBd&sharer_shareinfo=f71919c8ba2c31e115258d3ea33a7492&sharer_shareinfo_first=8a620b610e58146e62b062eb362cafd4#rd) 并荣获人大新闻网报道！ 链接
+
 - （2026年3月）恭喜薛敦耀等的论文《Core-elements Subsampling for Alternating Least Squares》被JCGS接受！这是组里第10篇研究院1B类期刊！[链接](https://mp.weixin.qq.com/s?__biz=MzI0NTE1MDk4Mg==&mid=2247493684&idx=1&sn=2890bbd35e47576683e9019d532ff71d&chksm=e8c4425f7136d1bed9b4acf814b19ef8179428e79e09fa51e30af3cdfa9842fd2b54290b4c16&mpshare=1&scene=1&srcid=0414OajaNWC2FQBekHecF670&sharer_shareinfo=bcb12df34a4a3d6bd935ea3dc2d09229&sharer_shareinfo_first=bcb12df34a4a3d6bd935ea3dc2d09229#rd)
 
 - （2026年3月）祝贺薛敦耀入选2025-2026学年中国人民大学“拔尖创新人才培育资助计划”！[链接](https://grs.ruc.edu.cn/info/1033/3326.htm)
