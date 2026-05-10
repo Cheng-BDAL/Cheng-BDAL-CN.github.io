@@ -86,7 +86,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
     </td>
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/林俊一.jpg" alt="Junyi Lin"><br>
-      林俊一<br>
+      林俊一<a href="https://junyilin559.github.io/">Github</a><br>
       2024级博士<br>
       合作导师：何珂俊副教授<br>
       南开大学，统计与数据科学学院本科<br>
