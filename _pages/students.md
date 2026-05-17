@@ -119,7 +119,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
     </td>
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/梁浩贤.jpg" alt="Dunyao Xue"><br>
-      梁浩贤<br>
+      梁浩贤<a href="https://haoxian1024.github.io/">Github</a><br>
       2024级硕士(北师大数学系)<br>
       中国人民大学，数学科学学院本科<br>
       haoxian_liang at mail dot bnu dot edu dot cn
