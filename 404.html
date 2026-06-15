@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Redirecting to BDAL-RUC Chinese Homepage</title>
+  <script>
+    (function () {
+      var oldBase = "/Cheng-BDAL-CN.github.io";
+      var path = window.location.pathname;
+      var suffix = path.indexOf(oldBase) === 0 ? path.slice(oldBase.length) : "/";
+      if (!suffix || suffix === "/") {
+        suffix = "/";
+      }
+      var target = "https://cheng-bdal.github.io/cn" + suffix + window.location.search + window.location.hash;
+      window.location.replace(target);
+    }());
+  </script>
+</head>
+<body>
+  <p>Redirecting to <a href="https://cheng-bdal.github.io/cn/">https://cheng-bdal.github.io/cn/</a>.</p>
+</body>
+</html>
